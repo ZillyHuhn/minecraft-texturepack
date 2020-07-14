@@ -7,5 +7,5 @@ It removes the wither healthbar and also the text "Wither" but only if it has no
 ## installation
 
 ```
-cd ~/.minecraft/resourcepacks && git clone https://github.com/ZillyHuhn/minecraft-texturepack
+cd ~/.minecraft && rm -rf resourcepacks && git clone https://github.com/ZillyHuhn/minecraft-texturepack resourcepacks
 ```
